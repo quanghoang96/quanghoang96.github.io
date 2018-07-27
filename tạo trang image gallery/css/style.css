@@ -1,0 +1,43 @@
+
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #E5E5E5;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-size: 50px;
+	color:red;
+}
+#dangnhap a{
+	float: right;
+}
+
+#main-menu a{
+	font-size: 20px;
+	color:#737373;
+	text-decoration: none;
+}
+#main-menu a:hover,#main-menu a.active{
+	color:black;
+}
+#main-menu a.active{
+	font-weight: bold;
+}
+.box{
+	padding: 10px;
+	margin: 0;
+	border: 5px solid #dddddd;
+	border-top-width: 1px;
+	float: left;
+}
+span{
+	color: blue;
+}
+.wrap{
+	max-width: 1000px;
+	margin: auto;
+}
+
