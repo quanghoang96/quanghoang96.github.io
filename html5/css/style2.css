@@ -1,0 +1,12 @@
+#d{
+	width: 600px;
+	height: 1000px;
+	background:#CCCCCC; 
+	float: left;
+}
+#e{
+	width: 400px;
+	height: 1000px;
+	background:#ddd7d7; 
+	float: left;
+}

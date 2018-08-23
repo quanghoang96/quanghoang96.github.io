@@ -1,0 +1,15 @@
+p{
+	font-size: 15px;
+}
+section{
+	width: 1000px;
+	height: 1200px;
+	background:#99FFFF; 
+	margin: auto;
+}
+#f{
+	width: 600px;
+	height: 1200px;
+	background:#ddd7d7; 
+	float: left;
+}

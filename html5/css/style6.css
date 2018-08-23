@@ -1,0 +1,11 @@
+#q{
+	width: 1000px;
+	height: 1700px;
+	background:#ffffff; 
+	float: left;
+}
+.cangiua{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
